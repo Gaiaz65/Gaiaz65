@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaiaz65
-- I am an Angular developer
+- Junior Angular developer
 - Have extensive experience as a project manager
 - Fluent in English
 - Looking for a job

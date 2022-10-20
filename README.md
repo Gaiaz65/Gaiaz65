@@ -26,6 +26,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Gabriel364-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Gabriel364)](https://t.me/Gabriel364)
 [![Gmail Badge](https://img.shields.io/badge/-gaiazapkaev365@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaiazapkaev365@gmail.com)](mailto:gaiazapkaev365@gmail.com)
 
+## [My CV](https://drive.google.com/file/d/18hdEjIiZx0T28MpmKc-SGNoDuB6BQrwc/view?usp=sharing)
+
+
+
 
 
 

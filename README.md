@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gaiaz65
-- Junior Angular developer
+- Frontend developer at OpenSolutions
 - Have extensive experience as a project manager
 - Fluent in English
-- Looking for a job
+
 
 ## Technologies/tools
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)

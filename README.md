@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gaiaz65
 - Frontend developer at OpenSolutions
-- Have extensive experience as a project manager
 - Fluent in English
 
 
